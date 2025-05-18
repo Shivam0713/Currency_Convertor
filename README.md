@@ -17,7 +17,7 @@ A sleek and responsive currency converter web application built using **HTML**, 
 - Currency API (via CDN)  
 - Flags API
 
-## 🖼️ Preview
+## 🖼️ Preview(<a href = "https://shivam0713.github.io/Currency_Convertor/"> View Live </a>)
 
 ![Project Preview](./screenshot.png)
 
